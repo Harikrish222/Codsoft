@@ -1,0 +1,109 @@
+.portfolio-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px;
+
+}
+
+.logo {
+ 
+}
+
+.links {
+  
+
+font-size:25px;
+}
+.links:hover {
+  
+color:red;
+font-size:25px;
+}
+
+
+
+.container {
+  display: flex;
+justify-content:space-between ;
+}
+
+.para {
+
+width:750px; 
+text-align:justify;
+margin-right:35px;
+margin-bottom:75px;
+
+}
+
+.im{
+ 
+height:580px;
+margin:5px 35px;
+ 
+ 
+}
+
+.logo-container {
+  display: flex;
+
+  
+}
+
+.logo-link {
+  margin-right: 60px; /* Adjust the value to increase or decrease spacing */
+}
+
+.logo-link:hover {
+  background-color: #555;
+}
+
+
+.button{
+  background-color: green;
+  color: #ffffff;
+  padding: 10px 20px;
+
+  border-radius: 5px;
+  font-size:25px;
+}
+.button:hover{
+   background-color: #555;
+}
+
+section
+ {
+            margin: 2em 2em;
+            padding: 2em;
+            background-color: #fff;
+            box-shadow: 0 0 25px rgba(0, 0, 0, 0.1);
+        }
+
+body{
+background-color:lightcyan;
+}
+
+ul li{
+display:inline-block;
+
+margin:10px 15px;
+
+}
+
+.box {
+  display: flex;
+justify-content:space-evenly;
+}
+.submit{
+background-color:green;
+border-radius: 5px;
+  color: #ffffff;
+font-size:15px;
+padding: 10px 10px;
+
+
+}
+.submit:hover{
+background-color: #555;
+}
